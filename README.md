@@ -11,7 +11,8 @@
 <p align="center">
   <a href="https://github.com/chaerin-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaerin-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=radical)](https://github.com/chaerin-dev"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=radical"/>
+    
   <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&layout=compact&theme=radical)](https://github.com/chaerin-dev)-->
   </a>
 </p>
