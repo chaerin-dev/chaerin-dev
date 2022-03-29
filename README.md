@@ -27,7 +27,7 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p>
-  <a href="mailto:chaerin.dev@gmail.com"><img src="https://img.shields.io/badge/-chaerin.dev@gmail.com-100f19?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:chaerin.dev@gmail.com"><img src="https://img.shields.io/badge/-chaerin.dev@gmail.com-100f19?style=flat&logo=Gmail"/></a>
 </p>
 
 <br>
