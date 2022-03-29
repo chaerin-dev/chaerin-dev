@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=chaerin-dev&fontSize=90&fontcolor=f8247c&fontAlignY=30&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=chaerin-dev&fontSize=90&fontColor=f8247c&fontAlignY=45&animation=blink&color=100f19)
 
 <!--
 **chaerin-dev/chaerin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
