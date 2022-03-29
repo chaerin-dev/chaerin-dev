@@ -1,6 +1,4 @@
-### Hi, I'm Chaerin! 💜
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=chaerin-dev&fontSize=90)
 
 <!--
 **chaerin-dev/chaerin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🌱 I’m currently learning ...
-- 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=radical)
 
