@@ -32,5 +32,6 @@
 
 <br>
 <br>
-
+<!--
 <img src="https://capsule-render.vercel.app/api?type=soft&color=100f19&height=250&section=header&text=chaerin-dev&fontAlignY=45&fontSize=90&fontColor=f8247c&animation=blink&desc=WelcomeToMyGitHub&descSize=30&descAlignY=75">
+-->
