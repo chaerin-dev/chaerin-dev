@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin-dev&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaerin-dev&count_private=true&show_icons=true&layout=compact&theme=tokyonight)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&theme=tokyonight)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&layout=compact&theme=tokyonight)
