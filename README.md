@@ -3,14 +3,6 @@
 
 ## 📚 &nbsp;I'm currently learning...
 
-<p align="center">
-  <a href="https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5"/></a>
-  <a href="https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6"/></a>
-  <a href="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript"/></a>
-  <a href="https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react"/></a>
-</p>
-
-<!--
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
@@ -29,5 +21,5 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="mailto:chaerin.dev@gmail.com"><img src="https://img.shields.io/badge/-asthiseta@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:chaerin.dev@gmail.com"><img src="https://img.shields.io/badge/-chaerin.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
