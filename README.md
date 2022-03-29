@@ -1,12 +1,18 @@
 
 [![header](https://capsule-render.vercel.app/api?type=soft&color=100f19&height=250&section=header&text=chaerin-dev&fontAlignY=45&fontSize=90&fontColor=f8247c&animation=blink&desc=WelcomeToMyGitHub&descSize=30&descAlignY=75)](https://github.com/chaerin-dev)
 
+<br>
+<br>
+
 ## 📚 &nbsp;I'm currently learning...
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
+
+<br>
+<br>
 
 ## 😼 &nbsp;My GitHub Analytics
 
@@ -18,8 +24,11 @@
   </a>
 </p>
 
+<br>
+<br>
+
 ## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
   <a href="mailto:chaerin.dev@gmail.com"><img src="https://img.shields.io/badge/-chaerin.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
