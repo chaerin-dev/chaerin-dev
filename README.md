@@ -18,8 +18,8 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaerin-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=radical&hide_border=true"/>
-  <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&layout=compact&theme=radical)](https://github.com/chaerin-dev)-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&layout=compact&theme=radical"
 </p>
 
 <br>
