@@ -19,7 +19,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaerin-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerin-dev&layout=compact&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&layout=compact&theme=radical&hide_border=true"
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=chaerin_dev&layout=compact&theme=radical&hide_border=true"-->
 </p>
 
 <br>
@@ -30,6 +30,5 @@
   <a href="mailto:chaerin.dev@gmail.com"><img src="https://img.shields.io/badge/-chaerin.dev@gmail.com-100f19?style=flat&logo=Gmail"/></a>
 </p>
 
-<br>
 <br>
 
