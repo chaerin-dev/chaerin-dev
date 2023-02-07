@@ -81,7 +81,7 @@
   </div>
 </details>
 <details>
-  <summary><h4>🍧 &nbsp;한국 배스킨라빈스 웹사이트의 메인 페이지와 아이스크림 메뉴 페이지의 성능과 접근성을 개선한 <b>"New Baskin Robbins 31"</b></h4></summary>
+  <summary><h4>🍧 &nbsp;한국 배스킨라빈스 웹사이트의 메인 페이지와 메뉴 페이지의 성능과 접근성을 개선한 <b>"New Baskin Robbins 31"</b></h4></summary>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2022.7.30 - 2022.8.5
