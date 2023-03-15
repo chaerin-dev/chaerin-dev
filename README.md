@@ -23,8 +23,7 @@
 <br>
 
 ## 🎁 &nbsp;PROJECTS
-<details>
-  <summary><h4>🎶 &nbsp;음반을 검색하고 자신만의 컬렉션에 저장할 수 있는 LP 아카이빙 서비스 <b>"33.3"</b></h4></summary>
+<h4>🎶 &nbsp;음반을 검색하고 자신만의 컬렉션에 저장할 수 있는 LP 아카이빙 서비스 <b>"33.3"</b></h4>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2022.12 - ing
@@ -41,9 +40,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 깃허브: <a href="https://github.com/33-1-3/33-1-3">https://github.com/33-1-3/33-1-3</a>
   </div>
-</details>
-<details>
-  <summary><h4>🎲 &nbsp;여러 번의 팀프로젝트에서 모두가 최대한 새로운 사람과 만날 수 있도록 도와주는 조 편성 서비스 <b>"Optimal Group Maker"</b></h4></summary>
+
+<h4>🎲 &nbsp;여러 번의 팀프로젝트에서 모두가 최대한 새로운 사람과 만날 수 있도록 도와주는 조 편성 서비스 <b>"Optimal Group Maker"</b></h4>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2022.10 - 2022.10
@@ -60,9 +58,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 깃허브: <a href="https://github.com/Group-Maker/Group_Maker">https://github.com/Group-Maker/Group_Maker</a>
   </div>
-</details>
-<details>
-  <summary><h4>🗒️ &nbsp;라이브러리나 프레임워크를 사용하지 않고 Vanilla JavaScript만으로 구현한 <b>"Trello"</b></h4></summary>
+
+<h4>🗒️ &nbsp;라이브러리나 프레임워크를 사용하지 않고 Vanilla JavaScript만으로 구현한 <b>"Trello"</b></h4>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2022.11 - 2022.11
@@ -79,9 +76,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 깃허브: <a href="https://github.com/RachelSSang/pair-programming-2">https://github.com/RachelSSang/pair-programming-2</a>
   </div>
-</details>
-<details>
-  <summary><h4>🍧 &nbsp;한국 배스킨라빈스 웹사이트의 메인 페이지와 메뉴 페이지의 성능과 접근성을 개선한 <b>"New Baskin Robbins 31"</b></h4></summary>
+
+<h4>🍧 &nbsp;한국 배스킨라빈스 웹사이트의 메인 페이지와 메뉴 페이지의 성능과 접근성을 개선한 <b>"New Baskin Robbins 31"</b></h4>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2022.7.30 - 2022.8.5
@@ -98,9 +94,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 깃허브: <a href="https://github.com/Baskin-Robbins-31/Baskin-Robbins-31">https://github.com/Baskin-Robbins-31/Baskin-Robbins-31</a>
   </div>
-</details>
-<details>
-  <summary><h4>🇰🇷 &nbsp;가상현실 기반 국악기 연주 체험 프로그램 <b>"OMGPG"</b></h4></summary>
+
+<h4>🇰🇷 &nbsp;가상현실 기반 국악기 연주 체험 프로그램 <b>"OMGPG"</b></h4>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2020.07 - 2021.06
@@ -117,7 +112,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 깃허브: <a href="https://github.com/Jiny530/OMGPG">https://github.com/Jiny530/OMGPG</a>
   </div>
-</details>
 
 <!--  -->
 <!-- ## 😼 &nbsp;My GitHub Analytics -->
