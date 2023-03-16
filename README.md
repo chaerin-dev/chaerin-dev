@@ -41,7 +41,7 @@
     - 깃허브: <a href="https://github.com/33-1-3/33-1-3">https://github.com/33-1-3/33-1-3</a>
   </div>
 
-<h4>🎲 &nbsp;여러 번의 팀프로젝트에서 모두가 최대한 새로운 사람과 만날 수 있도록 도와주는 조 편성 서비스 <b>"Optimal Group Maker"</b></h4>
+<h4>🎲 &nbsp;여러 번의 팀프로젝트에서 모두가 최대한 새로운 사람과 만날 수 있도록 도와주는 조 편성 서비스 <b>"Optimal Group Generator"</b></h4>
   <div markdown="1">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 진행 기간: 2022.10 - 2022.10
