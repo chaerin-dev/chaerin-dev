@@ -53,7 +53,7 @@
     - 기술 스택: HTML, CSS, JavaScript, Webpack, Express.js, MongoDB
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    - 배포 링크: <a href="https://www.optimal-group-generator.com">https://www.optimal-group-generator.com</a>
+    - 배포 링크: <a href="https://vanilla-group-maker.herokuapp.com">https://www.optimal-group-generator.com</a>
     <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     - 깃허브: <a href="https://github.com/Group-Maker/Group_Maker">https://github.com/Group-Maker/Group_Maker</a>
